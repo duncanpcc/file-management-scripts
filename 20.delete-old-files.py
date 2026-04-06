@@ -32,7 +32,8 @@ EXCLUDED_FOLDERS = [
     "Lemontea-10938464",
     "SweetSamxo-46439888",
     "Google_-12275653",
-    "ghoztgirl-28078657"
+    "ghoztgirl-28078657",
+    "MissAustralia-31285507",
 ]
 FOLDER_NAME_PATTERN = re.compile(r"^[^-]+-\d+$")
 
